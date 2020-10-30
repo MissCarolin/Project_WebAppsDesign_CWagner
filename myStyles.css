@@ -17,7 +17,7 @@ body {
     margin: 0px;
 }
 
-.container {
+.overall-container {
     /* width: fit-content; */
     margin: 0 auto;
     max-width: 1000px;
@@ -441,6 +441,8 @@ input {
     .icons-article-small {
         position: absolute;
         left: 319px;
+        /* top: -15px; */
+        /* left: 362px; */
         left: 82%;
         width: fit-content;
     }
